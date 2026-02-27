@@ -13,7 +13,7 @@ import {
 
 var quizAirtableBase = new Airtable({
   apiKey: process.env.NEXT_PUBLIC_AIRTABLE_API_KEY,
-}).base("appz764hf49mnGmWd");
+}).base("apptEF5Ojk1J09sel");
 
 const quizBase = quizAirtableBase("Quiz");
 
